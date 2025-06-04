@@ -1,2 +1,2 @@
 [web]
-13.234.75.81 ansible_user=ubuntu ansible_ssh_private_key_file=mykeypair.pem
+ec2-18-136-119-111.ap-southeast-1.compute.amazonaws.com ansible_user=ubuntu ansible_ssh_private_key_file=vasu.pem
