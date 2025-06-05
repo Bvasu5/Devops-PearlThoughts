@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Welcome All | Yii2 App in Docker Swarm</title>
+  <title>Welcome All| Yii2 App in Docker Swarm</title>
   <style>
     body {
       margin: 0;
@@ -50,7 +50,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>🚀 Welcome you to Yii2 App! </h1>
+    <h1>🚀 Welcome All you to Yii2 App! </h1>
     <p>Your Docker Swarm deployment is working perfectly.</p>
     <p>This is a custom landing page to confirm that your stack is running.</p>
     <a href="/index.php" class="btn">Enter Yii2 App</a>
