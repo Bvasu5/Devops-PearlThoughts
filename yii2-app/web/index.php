@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Welcome | Yii2 App in Docker Swarm</title>
+  <title>Welcome All | Yii2 App in Docker Swarm</title>
   <style>
     body {
       margin: 0;
